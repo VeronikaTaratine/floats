@@ -1,0 +1,173 @@
+.block-container {
+  width: 1100px;
+  height: 800px;
+  background-color: #c4c4c4;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 50px 50px 50px;
+  justify-content: space-evenly;
+}
+
+.block-section1 {
+  width: 1100px;
+  height: 200px;
+  background: #e6e6e6;
+}
+
+.grey-block1 {
+  width: 600px;
+}
+
+.block1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 64px;
+  color: #fff;
+  width: 200px;
+  height: 200px;
+  background: #fc8f8f;
+  float: left;
+}
+
+.block2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 64px;
+  color: #fff;
+  width: 200px;
+  height: 200px;
+  background: #fc8f8f;
+  float: right;
+}
+
+.block-section2 {
+  width: 1100px;
+  background: #e6e6e6;
+}
+
+/* .float1 {
+  float: left;
+  padding-left: 15px;
+} */
+.grey-block2 {
+  width: 600px;
+}
+
+.block3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 64px;
+  color: #fff;
+  width: 200px;
+  height: 200px;
+  background: #fc8f8f;
+  float: left;
+}
+
+.block4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  color: #fff;
+  width: 100px;
+  height: 100px;
+  background: #fc8f8f;
+  float: right;
+}
+
+.block5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  color: #fff;
+  width: 100px;
+  height: 100px;
+  background: #fc8f8f;
+  float: right;
+}
+
+.block6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  color: #fff;
+  width: 100px;
+  height: 100px;
+  background: #fc8f8f;
+  float: right;
+}
+
+.block7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36px;
+  color: #fff;
+  width: 100px;
+  height: 100px;
+  background: #fc8f8f;
+  float: right;
+}
+
+.block-section3 {
+  display: flex;
+  justify-content: space-between;
+  width: 1100px;
+  background: #e6e6e6;
+}
+
+.grey-block3 {
+  width: 200px;
+}
+.block8 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 64px;
+  color: #fff;
+  width: 200px;
+  height: 200px;
+  background: #fc8f8f;
+  float: left;
+}
+
+.block9 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 64px;
+  color: #fff;
+  width: 200px;
+  height: 200px;
+  background: #fc8f8f;
+  float: left;
+}
+
+.block10 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 64px;
+  color: #fff;
+  width: 200px;
+  height: 200px;
+  background: #fc8f8f;
+  float: left;
+}
+.block11 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 64px;
+  color: #fff;
+  width: 200px;
+  height: 200px;
+  background: #fc8f8f;
+  /* float: left; */
+}
